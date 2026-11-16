@@ -1,13 +1,13 @@
 {
   "name": "Pawmap · 포맵",
   "short_name": "Pawmap",
-  "description": "지도 앱 장소를 모아 강아지와 함께 여행 동선을 짜는 앱",
+  "description": "모아 둔 장소로 여행 동선을 짜는 수첩",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffe4c4",
-  "theme_color": "#ffffff",
+  "background_color": "#f5efe3",
+  "theme_color": "#f5efe3",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
